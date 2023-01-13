@@ -1,7 +1,7 @@
 
-# DND Search
+# React Search
 
-This is a search front-end for the elasticsearch engine created by DND.
+This is a search front-end that is multilingual.
 ## Authors
 
 - [Steven Scharf](https://www.linkedin.com/in/sscharf/)
@@ -37,7 +37,6 @@ To Be Determined (TBD)
 #### JavaScript
 #### React
 #### BootStrap
-#### Google Api
 
 
 
